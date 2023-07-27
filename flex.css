@@ -1,0 +1,25 @@
+header {display: flex;
+       justify-content: flex-start;}
+
+section{display: flex;
+      justify-content: flex-end; 
+        float:right;
+       width:96%;}
+       
+
+footer{display: flex;
+      justify-content:center;
+       width:80%;}
+
+  .section1{display: flex;
+       justify-content: flex-start;}
+
+
+ main{display: flex;
+     justify-content: center;}
+
+
+
+.section2{display: flex;
+         justify-content: flex-end;
+         width:10%;}
